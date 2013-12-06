@@ -2,6 +2,13 @@
 COLORS: 
 Ghandi Orange = Mythic 109-6 After the Crush 
 
+Ruby-wall mural. 
+109-6 after the crush / Bright
+115-6 spring cosmos / Midtone
+188-6 tango red / Dark
+200-6 per rock / Darkest 
+O-W 5-3 Morning Song / White
+
 
 Money spent so far: 
 
@@ -9,4 +16,6 @@ Money spent so far:
 
 Hours so far: 
 
-.5 - 2/3/12
+.5 - 2/3/13
+8 - 2/6/13
+4 - 2/7/13
