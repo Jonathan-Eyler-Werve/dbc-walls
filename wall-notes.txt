@@ -1,13 +1,39 @@
 
-COLORS: 
+ACTUAL COLORS 
 Ghandi Orange = Mythic 109-6 After the Crush 
+
+
+
+PLANNED COLORS 
 
 Ruby-wall mural. 
 109-6 after the crush / Bright
 115-6 spring cosmos / Midtone
 188-6 tango red / Dark
-200-6 per rock / Darkest 
+200-6 pet rock / Darkest 
 O-W 5-3 Morning Song / White
+
+Shopping list: 
+
+paint: 
+Crush x 4 gallon
+Cosmos x 1 quart
+tango x 1 quart
+pet rock x 1 quart 
+morning song x 1 quart
+
+Supplies: 
+tape 2"
+tape .25" (100'+) 
+drop cloths
+large roller x2 (low nap) 
+trays 
+small roller x1 
+edge brush
+small brushes 
+spackel
+
+
 
 
 Money spent so far: 
@@ -19,3 +45,24 @@ Hours so far:
 .5 - 2/3/13
 8 - 2/6/13
 4 - 2/7/13
+
+
+Wall quotes:
+
+I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand about the many connections and relations which occur to me, how the matter in question was first thought of or arrived at, etc., etc.
+
+Ada Lovelace
+inventor of the algorithm 
+cite: http://strangewondrous.net/browse/author/l/lovelace+ada
+
+The ENIAC was a bitch to program. We had no manuals for ENIAC. We learned how to program by studying the logical block diagrams. What a blessing. From the beginning, I knew how computers worked. 
+
+Betty Jean Jennings Bartik
+first digital programmer (with Fran Bilas, Ruth Lichterman, Kay McNulty, Betty Snyder and Marlyn Wescoff) 
+cite: http://inventors.about.com/library/inventors/blbartik1.htm
+
+I've always been more interested in the future than in the past.
+
+Grace Hopper
+inventor, high level programming
+https://en.wikiquote.org/wiki/Grace_Hopper
